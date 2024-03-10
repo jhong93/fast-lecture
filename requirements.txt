@@ -1,0 +1,5 @@
+openai-whisper
+numpy==1.24.4
+moviepy>=1.0.3
+tqdm
+scipy
